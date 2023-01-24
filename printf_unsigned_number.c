@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_unsgined_number - Prints an unsigned number
+ * print_unsgined_number - This is a function that Prints an unsigned number
  * @n: unsigned integer to be printed
  * Return: The amount of numbers printed
  */
