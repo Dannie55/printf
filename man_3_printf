@@ -7,7 +7,7 @@ To use _printf you have to use the following key characters preceeded by % symbo
 .RS 3
 %c: To be used to print characters
 .RS 0
-%s: To be used to print strings
+%s: Is to be used to print string
 .RS 0
 %d: To print integers of max and min size of an int type
 .RS 0
