@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * rev_string - reverses a string in place
+ * rev_string - this function reverses a string in place
  *
  * @s: string to reverse
  * Return: A pointer to a character
@@ -44,7 +44,7 @@ void write_base(char *str)
 }
 
 /**
- * base_len - Calculates the length for an octal number
+ * base_len - a function that Calculates the length for an octal number
  * @num: The number for which the length is being calculated
  * @base: Base to be calculated by
  * Return: An integer representing the length of a number
@@ -61,7 +61,7 @@ unsigned int base_len(unsigned int num, int base)
 }
 
 /**
- * _memcpy - copy memory area
+ * _memcpy - a function that  copy memory area
  * @dest: Destination for copying
  * @src: Source to copy from
  * @n: The number of bytes to copy
